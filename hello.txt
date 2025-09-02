@@ -1,1 +1,2 @@
 hello, Ptyhon.
+이름 : 홍길동
